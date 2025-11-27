@@ -39,15 +39,23 @@ GitHub for hosting
 The results here include multiple insights derived from the Airbnb dataset:
 
 
-.Listings by Neighborhood Group → Shows that Manhattan and Brooklyn dominate the Airbnb market, while Staten Island has very few listings.
-.Top 10 Hosts → Reveals that a small number of hosts manage a very large number of listings, showing market concentration.
-.Heatmap of Reviews → Highlights how guest review activity and satisfaction vary across neighborhoods and room types.
-.Price Distribution → Most listings are affordable (under $200), with a few high-end luxury properties skewing the scale.
-.Room Type Analysis → Entire homes/apartments are the most common and also more expensive, while shared rooms are rare and cheaper.
-.Availability Trends → Many listings are either available all year (365 days) or not available at all (0 days).
-.Geographical Distribution (Map Scatterplot) → Manhattan and Brooklyn appear as dense clusters of listings.
-.Correlation Heatmap → Shows weak correlation between price and reviews, but stronger link between reviews per month and number of reviews.
-.Word Cloud of Listing Names → Common listing keywords include “Cozy”, “Private”, and “Apartment”, reflecting how hosts market their properties.
+.Listings by Neighborhood Group → Shows that Manhattan and Brooklyn dominate the Airbnb market, while Staten Island has very few listings
+
+.Top 10 Hosts → Reveals that a small number of hosts manage a very large number of listings, showing market concentration
+
+.Heatmap of Reviews → Highlights how guest review activity and satisfaction vary across neighborhoods and room types
+
+.Price Distribution → Most listings are affordable (under $200), with a few high-end luxury properties skewing the scale
+
+.Room Type Analysis → Entire homes/apartments are the most common and also more expensive, while shared rooms are rare and cheaper
+
+.Availability Trends → Many listings are either available all year (365 days) or not available at all (0 days)
+
+.Geographical Distribution (Map Scatterplot) → Manhattan and Brooklyn appear as dense clusters of listings
+
+.Correlation Heatmap → Shows weak correlation between price and reviews, but stronger link between reviews per month and number of reviews
+
+.Word Cloud of Listing Names → Common listing keywords include “Cozy”, “Private”, and “Apartment”, reflecting how hosts market their properties
 
 Overall, these analyses provide a clear picture of overcrowding in certain neighborhoods, the dominance of specific hosts, and guest activity patterns, which can help both hosts and Airbnb management make better decisions.
 
